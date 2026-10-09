@@ -1,0 +1,16 @@
+# Secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+# Generated Roblox builds
+/build/
+build.rbxlx
+build.rbxl
+*.rbxl.lock
+# Local tools/editor
+.DS_Store
+Thumbs.db
+.vscode/
+node_modules/
